@@ -104,7 +104,7 @@ section.header:after {
 	background-size: cover;
 	height: 90px;
 	z-index: 90;
-	background-color: #68686b;
+	background-color: #340538;
 	border-top: 1px solid #f2f2f2;
 }
 section.header {
@@ -112,12 +112,12 @@ section.header {
 	z-index: 999999;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-color: #68686b;
+	background-color: #340538;
 }
 .header_area {
 	z-index: 999999;
 	padding: 15px 0 0 0;
-	background-color: #68686b;
+	background-color: #340538;
 	position: fixed;
 	top: 0px;
 	height: 125px;
@@ -771,15 +771,15 @@ footer .footer-4 li:nth-child(3) {
 .servicesone p {
     padding-bottom: 20px !important;
 }
-.pricingpage #particles-js, .services #particles-js, .aboutpage #particles-js, .experience #particles-js, .contact #particles-js, .discover #particles-js, .productOshTech #particles-js, .privacy-policy #particles-js, .teampage #particles-js {
+.pricingpage #particles-js, .services #particles-js, .aboutpage #particles-js, .experience #particles-js, .contact #particles-js, .discover #particles-js, .productinfinimesh #particles-js, .privacy-policy #particles-js, .teampage #particles-js {
 	background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('../images/124.jpg');
 	background-repeat: no-repeat; !important;
 	color: #180d5b !important;
 }
-.pricingpage .header-bottom,.services .header-bottom, .aboutpage .header-bottom, .discover .header-bottom, .experience .header-bottom, .contact .header-bottom, .productOshTech .header-bottom, .privacy-policy .header-bottom, .teampage .header-bottom {
+.pricingpage .header-bottom,.services .header-bottom, .aboutpage .header-bottom, .discover .header-bottom, .experience .header-bottom, .contact .header-bottom, .productinfinimesh .header-bottom, .privacy-policy .header-bottom, .teampage .header-bottom {
 	padding: 0px 0px 100px 0px !important;
 }
-.pricingpage .header-bottom h1,.services .header-bottom h1, .aboutpage .header-bottom h1, .privacy-policy .header-bottom h1, .teampage .header-bottom h1, .discover .header-bottom h1, .productOshTech .header-bottom h1, .contact .header-bottom h1, .experience .header-bottom h1 {
+.pricingpage .header-bottom h1,.services .header-bottom h1, .aboutpage .header-bottom h1, .privacy-policy .header-bottom h1, .teampage .header-bottom h1, .discover .header-bottom h1, .productinfinimesh .header-bottom h1, .contact .header-bottom h1, .experience .header-bottom h1 {
 	text-align: center;
 	font-size: 87px !important;
 	font-weight: 600;
@@ -913,34 +913,34 @@ footer .footer-4 li:nth-child(3) {
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
-.OshTechone {
+.Infinimeshone {
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
-.OshTechone .infiniboxone p {
+.Infinimeshone .infiniboxone p {
 	margin: 20px 0px 40px 0px;
 	font-size: 16px;
 	line-height: 24px;
 	color: #666;
 }
-.OshTechone .infiniboxone h2 {
+.Infinimeshone .infiniboxone h2 {
 	color: #333;
 }
-.OshTechone .infiniboxone {
+.Infinimeshone .infiniboxone {
 	text-align: center;
 }
-.OshTechone .infiniboxtwo h2 {
+.Infinimeshone .infiniboxtwo h2 {
 	padding-bottom: 30px;
 	color: #333;
 }
-.OshTechone .infiniboxtwo {
+.Infinimeshone .infiniboxtwo {
 	text-align: center;
 }
-.OshTechone .infiniboxtwo h4 {
+.Infinimeshone .infiniboxtwo h4 {
 	padding: 10px 0px 20px 0px;
 	font-size: 20px;
 }
-.OshTechone .infiniboxtwo p {
+.Infinimeshone .infiniboxtwo p {
 	margin: 0px;
 	color: #666;
 	font-size: 15px;
@@ -1010,7 +1010,7 @@ footer .footer-4 li:nth-child(3) {
 
 
 
-.productOshTech .box {
+.productinfinimesh .box {
     margin-top: 30px;
 }
 
@@ -1489,12 +1489,12 @@ section.client {
 .try {
 	padding: 20px 0px !important;
 }
-	.aboutone,.contactone,.discoverone ,.experienceone,.pricingone, .OshTechone,.servicesone {
+	.aboutone,.contactone,.discoverone ,.experienceone,.pricingone, .Infinimeshone,.servicesone {
     padding-top: 30px !important;
     padding-bottom: 30px !important;
 }
 
-	.about  .header-bottom h1,.contacth1,.discover  .header-bottom h1,.experience  .header-bottom h1,.pricing  .header-bottom h1,.pricingpage  .header-bottom h1,.services .header-bottom h1, .aboutpage .header-bottom h1, .privacy-policy .header-bottom h1, .teampage .header-bottom h1, .discover .header-bottom h1, .productOshTech .header-bottom h1, .contact .header-bottom h1, .experience .header-bottom h1 {
+	.about  .header-bottom h1,.contacth1,.discover  .header-bottom h1,.experience  .header-bottom h1,.pricing  .header-bottom h1,.pricingpage  .header-bottom h1,.services .header-bottom h1, .aboutpage .header-bottom h1, .privacy-policy .header-bottom h1, .teampage .header-bottom h1, .discover .header-bottom h1, .productinfinimesh .header-bottom h1, .contact .header-bottom h1, .experience .header-bottom h1 {
 
     font-size: 50px !important;
 
