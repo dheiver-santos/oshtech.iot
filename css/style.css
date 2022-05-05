@@ -104,7 +104,7 @@ section.header:after {
 	background-size: cover;
 	height: 90px;
 	z-index: 90;
-	background-color: #340538;
+	background-color: #000000;
 	border-top: 1px solid #f2f2f2;
 }
 section.header {
@@ -112,12 +112,12 @@ section.header {
 	z-index: 999999;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-color: #340538;
+	background-color: #000000;
 }
 .header_area {
 	z-index: 999999;
 	padding: 15px 0 0 0;
-	background-color: #340538;
+	background-color: #000000;
 	position: fixed;
 	top: 0px;
 	height: 125px;
@@ -132,7 +132,7 @@ section.header {
 	background-size: cover;
 	z-index: 91;
 	background-position: 0 -90px;
-  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../images/148.jpg");
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../images/image_background.jpeg");
 }
 .nav-header {
 	padding-top: 15px;
@@ -773,7 +773,7 @@ footer .footer-4 li:nth-child(3) {
 }
 .pricingpage #particles-js, .services #particles-js, .aboutpage #particles-js, .experience #particles-js, .contact #particles-js, .discover #particles-js, .productinfinimesh #particles-js, .privacy-policy #particles-js, .teampage #particles-js {
 	background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('../images/124.jpg');
-	background-repeat: no-repeat; !important;
+	background-repeat: no-repeat;
 	color: #180d5b !important;
 }
 .pricingpage .header-bottom,.services .header-bottom, .aboutpage .header-bottom, .discover .header-bottom, .experience .header-bottom, .contact .header-bottom, .productinfinimesh .header-bottom, .privacy-policy .header-bottom, .teampage .header-bottom {
@@ -1325,7 +1325,7 @@ box-shadow: 0 0.5em 0 0 #ffffff, 0 1em 0 0 #fafcff;
 }
 section.header::after {
 	bottom: -90px;
-	border-top: 1px solid #340538;
+	border-top: 1px solid #000000;
 }
 .demand .boxx {
 	padding: 0px !important;
@@ -1409,7 +1409,7 @@ section.try {
 }
 section.header::after {
 	bottom: -90px;
-	border-top: 1px solid #340538;
+	border-top: 1px solid #000000;
 }
 .demand .boxx {
 	padding: 0px !important;
